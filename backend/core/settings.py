@@ -72,7 +72,7 @@ AUTH_USER_MODEL = 'users.User'
 AUTHENTICATION_BACKENDS = ['django.contrib.auth.backends.ModelBackend']
 
 LANGUAGE_CODE = 'en-us'
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'Asia/Kolkata'
 USE_I18N = True
 USE_TZ = True
 
